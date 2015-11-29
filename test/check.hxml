@@ -1,0 +1,3 @@
+-neko bin/test.n
+-cp ../
+-main test.Check
